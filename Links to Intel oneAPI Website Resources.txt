@@ -1,0 +1,23 @@
+Intel oneAPI Articles:
+
+Heterogeneous Computing for Deep Learning: Deploying Generative Models via oneAPI
+https://www.intel.com/content/www/us/en/developer/articles/technical/deploying-generative-models-via-oneapi.html
+
+Success Story: Intel® oneAPI Toolkits Enable Easier Programming of Machine Learning Algorithms on Robots
+https://www.intel.com/content/www/us/en/developer/articles/success-story/oneapi-toolkits-machine-learning-algorithms-robots.html
+
+oneAPI Poised to Drive AI Proliferation
+https://www.oneapi.io/community/oneapi-poised-to-drive-ai-proliferation/
+
+Intel OneAPI Training Websites:
+
+Intel oneAPI Base Training Modules
+https://devcloud.intel.com/oneapi/get_started/baseTrainingModules/
+
+Intel OneAPI Not Supported Things:
+
+Yolov5 train with oneAPI using a system including Intel Iris Xe Max Not Supported
+https://community.intel.com/t5/Intel-DevCloud/Yolov5-train-with-oneAPI-using-a-system-including-Intel-Iris-Xe/td-p/1359187
+What it says: No Yolov5 supported, nor training on DevCloud.
+
+
